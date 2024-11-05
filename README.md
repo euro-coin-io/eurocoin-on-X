@@ -1,4 +1,4 @@
-# Content on X
+# EuroCoin Content on X
 
 This repository contains the content that has been posted on X (Formerly twitter).
 
